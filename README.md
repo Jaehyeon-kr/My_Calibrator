@@ -1,4 +1,4 @@
-# Camera Calibration
+# My_Calibrator
 
 Camera calibration and lens distortion correction using OpenCV.
 
